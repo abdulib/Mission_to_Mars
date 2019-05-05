@@ -2,10 +2,6 @@
 Web Scraping and Documentat Databases
 
 
-# Mission to Mars
-
-![mission_to_mars](Images/mission_to_mars.jpg)
-
 In this project, we will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
 
 ## Step 1 - Scraping
