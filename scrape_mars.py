@@ -22,7 +22,7 @@ def scrape_info():
     soup = BeautifulSoup(browser.html, 'html.parser')
     news_title = soup.find('h3').text
     news_p = soup.find('div', class_ = 'rollover_description_inner').text
-
+    browser.quit() 
 
     # MAC USER
     executable_path = {'executable_path': '/usr/local/bin/chromedriver'}
